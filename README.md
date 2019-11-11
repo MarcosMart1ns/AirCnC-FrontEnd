@@ -1,3 +1,5 @@
+Run npm install before run the command bellow.
+
 You can run this project directory using the command:
 
 ### `npm start`
